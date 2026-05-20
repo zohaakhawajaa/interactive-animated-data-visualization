@@ -1,0 +1,22 @@
+ID,Name,Type,Parent_ID,Level
+1,Global University,University,,1
+
+2,Faculty of Engineering,Faculty,1,2
+3,Faculty of Business,Faculty,1,2
+
+4,Computer Science Department,Department,2,3
+5,Electrical Engineering Department,Department,2,3
+6,BBA Department,Department,3,3
+
+7,BS Computer Science,Program,4,4
+8,BS Artificial Intelligence,Program,4,4
+9,BS Electrical Engineering,Program,5,4
+10,BBA Marketing,Program,6,4
+
+11,Ali Khan,Student,7,5
+12,Sara Ahmed,Student,7,5
+13,Usman Tariq,Student,8,5
+14,Ayesha Malik,Student,8,5
+15,Hassan Raza,Student,9,5
+16,Maria Noor,Student,10,5
+17,Bilal Hussain,Student,10,5
